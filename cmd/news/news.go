@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/robtec/newsapi/commands"
+	"github.com/lcensies/newsapi/commands"
 	"github.com/urfave/cli"
 )
 

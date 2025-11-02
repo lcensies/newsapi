@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/olekukonko/tablewriter"
-	"github.com/robtec/newsapi/api"
+	"github.com/lcensies/newsapi/api"
 	"github.com/urfave/cli"
 )
 
